@@ -1,5 +1,6 @@
 # Sales-and-Profit-Analysis-Dashboard
 📊 Power BI Sales Analysis Project
+
 📌 Project Overview
 
 This project features an interactive Sales Analysis Dashboard built in Power BI using the Superstore dataset. It provides insights into sales, profit, and quantity across categories, sub-categories, regions, states, and customer segments, helping businesses track performance and make data-driven decisions.
