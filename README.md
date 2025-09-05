@@ -2,7 +2,8 @@
 📊 Power BI Superstore Dashboard
 
 This project analyzes the Superstore Sample Dataset using Power BI. It provides insights into sales, profit, quantity, segments, categories, and regions.
- Features
+Features
+
 KPIs: Revenue, Profit, Quantity
 
 Sales & Profit trends (Year & Quarter)
